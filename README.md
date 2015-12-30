@@ -14,7 +14,7 @@ For my extension I chose to integrate airport data into the existing earthquake 
 
 [View visual of airport revealer extension](AirportRevealer.png)
 
-When you click on an earthquake it, it excludes all other earthquakes and shows you all airports within a 100 mile radius.  The functionality could easily be changed to request input from the user regarding desired distance, as well as allowing the user to customize the data they wanted to visualize.
+When you click on an earthquake, it excludes all other earthquakes and shows you all airports within a 100 mile radius.  The functionality could easily be changed to request input from the user regarding desired distance, as well as allowing the user to customize the data they wanted to visualize.
 
 To utilize the app you would need to download the source and open in Eclipse. Choose module 6, and run from  EarthquakeCityMap.java. 
 

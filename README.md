@@ -4,7 +4,7 @@
 
 **The Project**
 
-This repo is from an online class I took this fall, that I completed this month. Over the course of 6 weeks we used two Java libraries (UnfoldingMaps and Processing) to build a mapping application. UnfoldingMaps allows you to create maps with any geographical feature you can imagine: in our case we parsed an atom feed from USGS of earthquake data and represented this data visually using the tools provided by the Processing library (so without JS--although there is a JS version of the same library called p5.js).
+This repo is from an online class I took this fall, that I completed this month. Over the course of 6 weeks we used two Java libraries (UnfoldingMaps and Processing) to build a mapping application. UnfoldingMaps allows you to create maps with any geographical feature you can imagine: in our case we parsed a live feed of USGS of earthquake data and represented this data visually using the tools provided by the Processing library (so without JS--although there is a JS version of the same library called p5.js).
 
 Our final assignment was to come up with our own extension to the application that went above and beyond the basic requirements of the course. 
 
